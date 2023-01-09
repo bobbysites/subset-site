@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.subsetmedia.com	TRUE	/	FALSE	1999999999	crumb	BVgWrxR4bl8YODkwYmI3N2Q2MmUzYmI0OTE5ZjI3OTVjOWQwOWQy
+
